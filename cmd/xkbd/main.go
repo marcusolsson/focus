@@ -7,7 +7,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/marcusolsson/focusd"
+	"github.com/marcusolsson/focus"
 )
 
 var browserClass = "Chromium"
