@@ -14,3 +14,4 @@ The `xkbd` command in this project is a uses the package to solve this by execut
 
 If you know of any better way of doing this, please let me know.
 
+Note: Honestly, this is yak shaving at it's finest. Nowadays I'm using: `setxkbmap -layout us -variant altgr-intl -option ctrl:nocaps`
